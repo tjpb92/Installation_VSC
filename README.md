@@ -2,18 +2,18 @@
 
 ## Installation
 
-Télécharger l'application depuis : https://code.visualstudio.com/
-Prendre la version Windows 64bits
-ATTENTION : cela peut prendre du temps ...
-Cela donne le fichier : VSCodeUserSetup-x64-1.78.2.exe
-Il s'agit de l'installeur au niveau User et non Admin
+- Télécharger l'application depuis : https://code.visualstudio.com/
+- Prendre la version Windows 64bits
+- ATTENTION : cela peut prendre du temps ...
+- Cela donne le fichier : VSCodeUserSetup-x64-1.78.2.exe
+- Il s'agit de l'installeur au niveau User et non Admin
 
-Exécuter le fichier VSCodeUserSetup-x64-1.78.2.exe
-Cocher "Je comprends ...", cliquer sur Suivant
-Laisser le chemin proposé et cliquer sur Suivant
-Laisser le nom proposé du dossier Menu Démarrer et cliquer sur Suivant
-Cocher toutes les cases proposées et cliquer sur Suivant
-Décocher "Exécuter VSC" et cliquer sur Terminer.
+- Exécuter le fichier VSCodeUserSetup-x64-1.78.2.exe
+- Cocher "Je comprends ...", cliquer sur Suivant
+- Laisser le chemin proposé et cliquer sur Suivant
+- Laisser le nom proposé du dossier Menu Démarrer et cliquer sur Suivant
+- Cocher toutes les cases proposées et cliquer sur Suivant
+- Décocher "Exécuter VSC" et cliquer sur Terminer.
 
 L'installation de VSC est terminée.
 
@@ -21,7 +21,7 @@ Vérifier que l'on peut ouvrir un fichier texte du bureau avec VSC.
 
 ## Configuration
 
-### Sauvegarder tous les fichiers ouverts sur Control-S
+### Sauvegarder tous les fichiers ouverts sur Control+S
 
 - Aller dans File / Préférences / Keyboard shortcuts
 - Taper : Save all
@@ -40,9 +40,9 @@ Cette extension permet de visualiser en temps réel, l'état d'un fichier HTML d
 
 - Créer un fichier index.html basique dans un répertoire de test
 - Lancer Live Server en bas à droite : go live, le _navigateur par défaut_ s'ouvre ...
-  -- Au premier lancement de Live Server il faut cocher les deux cases du haut pour le firewall: Autoriser réseau local et entreprise.
-  -- Le fichier HTML devrait s'afficher dans le navigateur.
-  -- En modifiant légérement le fichier index.html, on constate après l'avoir sauvegardé que la modification s'affiche bien dans le navigateur.
+  - Au premier lancement de Live Server il faut cocher les deux cases du haut pour le firewall: Autoriser réseau local et entreprise.
+  - Le fichier HTML devrait s'afficher dans le navigateur.
+  - En modifiant légérement le fichier index.html, on constate après l'avoir sauvegardé que la modification s'affiche bien dans le navigateur.
 
 #### Prettier - Code formatter
 
